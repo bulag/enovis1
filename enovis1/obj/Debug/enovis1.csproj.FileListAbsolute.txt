@@ -1,0 +1,13 @@
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\bin\Debug\enovis1.exe
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\bin\Debug\enovis1.pdb
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Form1.resources
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.exe
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.pdb
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Anasayfa.resources
+c:\users\samsung\documents\visual studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Form2.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Form3.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Form4.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\enovis1\enovis1\obj\Debug\enovis1.Form5.resources
